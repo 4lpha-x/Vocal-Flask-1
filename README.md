@@ -1,7 +1,7 @@
-# Vocal-Flask
-#Vocal Flask A Open Source Tool To Clone Any Website On LocalHost For Testing                                                                        This Tool Works On Termux Properly :::
-Any One Can Configure It For Any Linux Distribution                                                       
-Requirements : Python3, Git
+# Vocal-Flask,
+#Vocal Flask A Open Source Tool To Clone Any Website On LocalHost For Testing,                                 This Tool Works On Termux Properly,
+Any One Can Configure It For Any Linux Distribution,
+Requirements : Python3, Git,
 Commands To Clone This Tool On Termux : 
 apt update
 apt upgrade -y 
