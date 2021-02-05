@@ -42,7 +42,6 @@ def logo():
 	print(a)
 	print(col + ':::::::::::::Coded By Rc:::::::::::::')
 	print(':::::This Program Is Created For Testing Purposes Dont Use It For Any Illegal Purposes:::::')
-	print(':::::Facebook.com/rahulr.cchandelkar:::::')
 time.sleep(1)
 os.system('clear')
 time.sleep(1)
